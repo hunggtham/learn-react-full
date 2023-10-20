@@ -1,4 +1,4 @@
-/* .form-control {
+.form-control {
   margin: 0.5rem 0;
 }
 
@@ -21,7 +21,7 @@
   outline: none;
   background: #fad0ec;
   border-color: #8b005d;
-} 
+}
 
 .form-control.invalid input {
   border-color: red;
@@ -31,4 +31,3 @@
 .form-control.invalid label {
   color: red;
 }
-*/
